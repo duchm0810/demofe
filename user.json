@@ -1,0 +1,124 @@
+{
+  "m_listUser": [
+    {
+      "m_userID": "id01",
+      "m_userName": "duchm",
+      "m_gem": 324,
+      "m_numTicker": 12,
+      "m_history": [
+        {
+          "m_matchId": "1234as",
+          "m_warriorName": "BTC",
+          "m_enemyWarriorName": "BCH",
+          "m_isWin": true,
+          "m_roundInfor": {
+            "m_itemType": 0,
+            "m_num": [
+              3,
+              4,
+              6
+            ]
+          },
+          "m_roundInforEnemy": {
+            "m_itemType": 1,
+            "m_num": [
+              1,
+              1,
+              11
+            ]
+          },
+          "m_matchType": 0,
+          "m_profit": 12
+        }
+      ],
+      "m_listBannedTime": [
+        "2021/07/12 16:42:13"
+      ],
+      "m_settings": {
+        "m_musicVolume": 42,
+        "m_soundVolume": 83,
+        "m_language": 0
+      }
+    },
+    {
+      "m_userID": "id02",
+      "m_userName": "nhudq",
+      "m_gem": 324,
+      "m_numTicker": 12,
+      "m_history": [
+        {
+          "m_matchId": "1234as",
+          "m_warriorName": "BTC",
+          "m_enemyWarriorName": "BCH",
+          "m_isWin": true,
+          "m_roundInfor": {
+            "m_itemType": 0,
+            "m_num": [
+              3,
+              4,
+              6
+            ]
+          },
+          "m_roundInforEnemy": {
+            "m_itemType": 1,
+            "m_num": [
+              1,
+              1,
+              11
+            ]
+          },
+          "m_matchType": 0,
+          "m_profit": 12
+        }
+      ],
+      "m_listBannedTime": [
+        "2021/07/12 16:42:13"
+      ],
+      "m_settings": {
+        "m_musicVolume": 42,
+        "m_soundVolume": 83,
+        "m_language": 0
+      }
+    },
+    {
+      "m_userID": "id03",
+      "m_userName": "duchm002",
+      "m_gem": 324,
+      "m_numTicker": 12,
+      "m_history": [
+        {
+          "m_matchId": "1234as",
+          "m_warriorName": "BTC",
+          "m_enemyWarriorName": "BCH",
+          "m_isWin": true,
+          "m_roundInfor": {
+            "m_itemType": 0,
+            "m_num": [
+              3,
+              4,
+              6
+            ]
+          },
+          "m_roundInforEnemy": {
+            "m_itemType": 1,
+            "m_num": [
+              1,
+              1,
+              11
+            ]
+          },
+          "m_matchType": 0,
+          "m_profit": 12
+        }
+      ],
+      "m_listBannedTime": [
+        "2021/07/12 16:42:13"
+      ],
+      "m_settings": {
+        "m_musicVolume": 42,
+        "m_soundVolume": 83,
+        "m_language": 0
+      }
+    }
+  ]
+}
